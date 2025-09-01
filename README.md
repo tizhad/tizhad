@@ -1,5 +1,3 @@
-# Tizhad
-
 A modern, responsive personal branding website built with Angular 20, featuring a beautiful home page and blog section.
 
 ## Features
@@ -94,49 +92,6 @@ The website uses CSS custom properties for easy color customization. You can mod
   // ... other colors
 }
 ```
-
-### Content
-
-- Update the personal information in the home component
-- Modify blog posts in the blog component
-- Customize navigation links in the app.html file
-
-## Features in Detail
-
-### Home Page
-
-- **Hero Section**: Eye-catching introduction with call-to-action buttons
-- **About Section**: Personal description and skills showcase
-- **Projects Section**: Featured projects with technology tags
-- **Contact Section**: Contact information and social links
-
-### Blog
-
-- **Category Filtering**: Filter posts by category
-- **Responsive Grid**: Adaptive layout for different screen sizes
-- **Featured Posts**: Highlight important blog posts
-- **Newsletter Signup**: Email subscription form
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
 
 For questions or support, please contact:
 
