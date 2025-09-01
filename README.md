@@ -1,4 +1,4 @@
-A modern, responsive personal branding website built with Angular 20, featuring a beautiful home page and blog section.
+A modern, responsive personal website built with Angular 20, featuring a beautiful home page and blog section.
 
 ## Features
 
