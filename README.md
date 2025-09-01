@@ -1,4 +1,4 @@
-# Tizhad - Personal Branding Website
+# Tizhad
 
 A modern, responsive personal branding website built with Angular 20, featuring a beautiful home page and blog section.
 
