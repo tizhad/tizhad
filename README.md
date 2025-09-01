@@ -16,44 +16,6 @@ A modern, responsive personal website built with Angular 20, featuring a beautif
 - **Routing**: Angular Router
 - **Architecture**: Standalone components with modern Angular patterns
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (version 18 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-cd tizhad
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start the development server:
-
-```bash
-npm start
-```
-
-4. Open your browser and navigate to `http://localhost:4200`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-The build artifacts will be stored in the `dist/` directory.
-
 ## Project Structure
 
 ```
