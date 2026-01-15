@@ -45,7 +45,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         جایی برای نوشتن از همه چیزهایی که شاید به درد یک نفر بخوره
       </p>
       <p class="mt-2">
-        اینجا دفتر منه برای نوشتن از هرچیزی که خودم رنجش رو کشیدم و می‌خوام از رنج بقیه کم کنم 
+        خرد رو با دست و دلبازی پخش کنیم
         <!-- <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
           href="https://github.com/satnaing/astro-paper#readme"
@@ -73,7 +73,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             { "border-b border-border": recentPosts.length > 0 },
           ]}
         >
-          <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
+          <h2 class="text-2xl font-semibold tracking-wide">محبوب‌ترین پست‌ها</h2>
           <ul>
             {featuredPosts.map(data => (
               <Card variant="h3" {...data} />

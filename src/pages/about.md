@@ -1,37 +1,27 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "درباره تیژاد"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+<div dir="rtl" style="text-align: justify; line-height: 1.8; font-family: 'Vazirmatn', sans-serif;">
 
-![Astro Paper](public/astropaper-og.jpg)
+این متن برای کسانی است که می‌خواهند بدانند پشت این کدها چه کسی نشسته است.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+### «سفر من از جایی شروع شد که بقیه فکر می‌کردند به مقصد رسیده‌ام.»
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+در ۳۲ سالگی، زمانی که منطق حکم می‌کرد در مسیر قبلی‌ام بمانم، من تصمیم گرفتم به زیر آب بروم تا برای اولین بار نفس بکشم. برنامه‌نویسی برای من فقط یادگیری یک مهارت جدید نبود؛ یک بازگشت به خویشتن بود.
 
-## Features
+من **تیژاد** هستم؛ یک مهندس فرانت‌اند که معتقد است لابلای خطوط کد، فضایی برای روح، هنر و معنا وجود دارد. اینجا در این وب‌سایت، من تجربه‌هایم از «شروع دوباره» را با تخصص فنی‌ام گره می‌زنم. هدف من ساده است: نشان دادن این حقیقت که برای درخشیدن و تغییر، هیچ‌وقت دیر نیست. من کد می‌زنم تا دنیای منظم‌تری بسازم و می‌نویسم تا به کسانی که هنوز زیر آب هستند، جسارتِ نفس کشیدن بدهم.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+<!-- <div align="center">
+  <img src="/IMG_9830.JPG" alt="Tijad" style="border-radius: 12px; max-width: 40%; height: auto; margin: 20px 0;" />
+</div> -->
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+و این منم که برای شاید صدمین بار از خاکستر خودم بلند شدم و برای رسیدن به آنچه برای آن زاده شده‌ام تلاش می‌کنم و می‌جنگم. به جذابیت کارهایم یا حرف‌هایم بر روی آدم‌ها فکر نمی‌کنم؛ به تأثیرم بر جهان پیرامونم و آن‌کس که با من همسوست بیشتر چشم دارم و می‌اندیشم که کوآرک‌های ما در یک راستا می‌جهند و می‌روند تا در من تمام و در دیگری زاده شوند.
 
-and so much more.
+آن نیستم که برای رسیدن به چیزی که جامعه از من طلب می‌کند بدود، بلکه برای چیزی ایستادگی می‌کنم که من را از «من» بودن رها کند. که منیتی سازنده وجود ندارد و هرچه با منیت گره بخورد، فریب دنیای امروز است.
 
-## Show your support
+**ما جزئی از یک کل هستیم و خودمان به تنهایی هیچ.**
+🙏🏼
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+</div>
