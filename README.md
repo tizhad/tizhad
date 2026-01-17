@@ -1,4 +1,4 @@
-# Hi, I'm Tizhad 🌑✨
+# 🌑✨
 
 ### Front-end Engineer | Constant Learner
 
