@@ -7,8 +7,8 @@ I am a software engineer who believes that between the lines of code, there is r
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Core:** JavaScript (ES6+), TypeScript, React, Next.js
-- **Static Sites:** Currently building something new.
+- **Core:** JavaScript (ES6+), TypeScript, React, Angular
+- **Status:** Currently building something new.
 - **Styling:** Tailwind CSS, Styled Components
 - **Architecture:** Responsive Design, Performance Optimization
 
